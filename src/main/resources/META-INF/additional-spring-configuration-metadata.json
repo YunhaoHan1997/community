@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasourse.username",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasourse.username."
+    },
+    {
+      "name": "spring.datasourse.username",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasourse.username."
+    },
+    {
+      "name": "github.redirect.uri",
+      "type": "java.lang.String",
+      "description": "Description for github.redirect.uri."
+    },
+    {
+      "name": "github.client.secret",
+      "type": "java.lang.String",
+      "description": "Description for github.client.secret."
+    }
+  ] }
